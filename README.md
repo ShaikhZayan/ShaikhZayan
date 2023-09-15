@@ -1,7 +1,10 @@
 <h1 align="center">Hi 👋, I'm Shaikh Zayan</h1>
 
 <h3 align="center">ᴀ ᴍᴀꜱᴛᴇʀ ᴘʀᴏɢʀᴀᴍᴍᴇʀ | ᴡᴇʙ 3.0 & ᴍᴇᴛᴀᴠᴇʀꜱᴇ ᴅᴇᴠᴇʟᴏᴘᴇʀ | ᴊᴀᴍꜱᴛᴀᴄᴋ ᴅᴇᴠᴇʟᴏᴘᴇʀ | ᴀʀᴛɪꜰɪᴄɪᴀʟ ɪɴᴛᴇʟʟɪɢᴇɴᴄᴇ | ʙʟᴏᴄᴋᴄʜᴀɪɴ ᴅᴇᴠᴇʟᴏᴘᴍᴇɴᴛ | ᴄʏʙᴇʀꜱᴇᴄᴜʀɪᴛʏ ᴇɴᴛʜᴜꜱɪᴀꜱᴛ 👨‍💻👨‍💻👨‍💻</h3>
-
+<br>
+<br>
+<br>
+<br>
 <img align="right" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" width="300" alt="coding"></img>
 
 <p align="left">
@@ -10,7 +13,7 @@
 
 - 🔭 I’m currently working on **Web3, Artificial Intelligence, Blockchain & Metaverse Development**
 
-- 🌱 I’m currently learning **I firmly believe that continuous learning fuels every developer's journey. In our fast-paced tech world, staying updated isn't just essential; it's our commitment to shape the future with cutting-edge innovations. As a successful developer, my pursuit of knowledge never wanes. Learning is the driving force empowering us to succeed, adapt, and make an impact. That's why I'm dedicated to self-learning and staying current with the latest tech, fueling my passion for innovation**
+- 🌱 I’m currently learning **I firmly believe that continuous learning fuels every developer's journey. In our fast-paced tech world, staying updated isn't just essential; <br> it's our commitment to shape the future with cutting-edge innovations. As a successful developer, my pursuit of knowledge never wanes. Learning is the driving force empowering us to succeed, adapt, and make an impact. That's why I'm dedicated to self-learning and staying current with the latest tech, fueling my passion for innovation**
 
 - 👯 I’m looking to collaborate on **I'm actively seeking collaborations with forward-thinking companies that share a passion for cutting-edge technologies. My expertise spans across Web 3.0, Metaverse development, Jamstack, Artificial Intelligence, Blockchain, and Cybersecurity. I'm excited to work with organizations that are as enthusiastic as I am about embracing and pioneering the latest and future tech stacks. Let's build the future together.**
 
