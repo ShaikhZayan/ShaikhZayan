@@ -13,7 +13,7 @@
 
 - 🔭 I’m currently working on **Web3, Artificial Intelligence, Blockchain & Metaverse Development**
 
-- 🌱 I’m currently learning **I firmly believe that continuous learning fuels every developer's journey. In our fast-paced tech world, staying updated isn't just essential; <br> it's our commitment to shape the future with cutting-edge innovations. As a successful developer, my pursuit of knowledge never wanes. Learning is the driving force empowering us to succeed, adapt, and make an impact. That's why I'm dedicated to self-learning and staying current with the latest tech, fueling my passion for innovation**
+- 🌱 I’m currently learning **I firmly believe that continuous learning fuels every developer's journey. In our fast-paced tech world, staying updated isn't just essential; &nbsp; it's our commitment to shape the future with cutting-edge innovations. As a successful developer, my pursuit of knowledge never wanes. Learning is the driving force empowering us to succeed, adapt, and make an impact. That's why I'm dedicated to self-learning and staying current with the latest tech, fueling my passion for innovation**
 
 - 👯 I’m looking to collaborate on **I'm actively seeking collaborations with forward-thinking companies that share a passion for cutting-edge technologies. My expertise spans across Web 3.0, Metaverse development, Jamstack, Artificial Intelligence, Blockchain, and Cybersecurity. I'm excited to work with organizations that are as enthusiastic as I am about embracing and pioneering the latest and future tech stacks. Let's build the future together.**
 
