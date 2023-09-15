@@ -14,11 +14,7 @@
 
 - 🤝 I’m looking for help with **I'm currently seeking opportunities to collaborate with companies that require expertise in Web 3.0, Metaverse development, Jamstack, Artificial Intelligence, Blockchain, and Cybersecurity. If your company is in need of a highly skilled developer who can contribute to these domains, I'm here to help you achieve your tech-driven goals. Let's work together to create innovative solutions and drive progress in the ever-evolving tech landscape**
 
-- 💬 Ask me about **latest advancements in technology, web 3.0, metaverse development, blockchain, cybersecurity, and how to thrive in the ever-evolving world of programming. I'm here to share insights, discuss innovative ideas, and collaborate on exciting projects.**
-
 - 📫 How to reach me **siddiquizayan50@gmail.com**
-
-- 📄 Know about my experiences [Explore my extensive experiences in web 3.0, metaverse development, blockchain solutions, and artificial intelligence. I've had the privilege of working with forward-thinking companies, contributing to cutting-edge projects, and staying at the forefront of technological advancements. Let's connect and discuss how my expertise can benefit your ventures](Explore my extensive experiences in web 3.0, metaverse development, blockchain solutions, and artificial intelligence. I've had the privilege of working with forward-thinking companies, contributing to cutting-edge projects, and staying at the forefront of technological advancements. Let's connect and discuss how my expertise can benefit your ventures)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
