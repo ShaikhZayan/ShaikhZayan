@@ -31,11 +31,8 @@
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/Shaikh Zayan"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Shaikh Zayan" /></a></p><br><br>
-
-<br>
+&nbsp;
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shaikhzayan&show_icons=true&locale=en&layout=compact" alt="shaikhzayan" /></p>
-
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=shaikhzayan&show_icons=true&locale=en" alt="shaikhzayan" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shaikhzayan&" alt="shaikhzayan" /></p>
 
