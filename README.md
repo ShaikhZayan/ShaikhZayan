@@ -1,4 +1,4 @@
-[![MasterHead](https://github.com/ShaikhZayan/ShaikhZayan/blob/main/Github%20Profile%20Banner.jpg)(https://www.instagram.com/zayan.1326/)
+![logo](https://github.com/ShaikhZayan/ShaikhZayan/blob/main/Github%20Profile%20Banner.jpg)(https://www.instagram.com/zayan.1326/)
 <h1 align="center">Hi 👋, I'm Shaikh Zayan</h1>
 
 <h3 align="center">ᴀ ᴍᴀꜱᴛᴇʀ ᴘʀᴏɢʀᴀᴍᴍᴇʀ | ᴡᴇʙ 3.0 & ᴍᴇᴛᴀᴠᴇʀꜱᴇ ᴅᴇᴠᴇʟᴏᴘᴇʀ | ᴊᴀᴍꜱᴛᴀᴄᴋ ᴅᴇᴠᴇʟᴏᴘᴇʀ | ᴀʀᴛɪꜰɪᴄɪᴀʟ ɪɴᴛᴇʟʟɪɢᴇɴᴄᴇ | ʙʟᴏᴄᴋᴄʜᴀɪɴ ᴅᴇᴠᴇʟᴏᴘᴍᴇɴᴛ | ᴄʏʙᴇʀꜱᴇᴄᴜʀɪᴛʏ ᴇɴᴛʜᴜꜱɪᴀꜱᴛ 👨‍💻👨‍💻👨‍💻</h3>
