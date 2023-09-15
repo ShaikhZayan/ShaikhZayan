@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shaikh Zayan</h1>
 <h3 align="center">ᴀ ᴍᴀꜱᴛᴇʀ ᴘʀᴏɢʀᴀᴍᴍᴇʀ | ᴡᴇʙ 3.0 & ᴍᴇᴛᴀᴠᴇʀꜱᴇ ᴅᴇᴠᴇʟᴏᴘᴇʀ | ᴊᴀᴍꜱᴛᴀᴄᴋ ᴅᴇᴠᴇʟᴏᴘᴇʀ | ᴀʀᴛɪꜰɪᴄɪᴀʟ ɪɴᴛᴇʟʟɪɢᴇɴᴄᴇ | ʙʟᴏᴄᴋᴄʜᴀɪɴ ᴅᴇᴠᴇʟᴏᴘᴍᴇɴᴛ | ᴄʏʙᴇʀꜱᴇᴄᴜʀɪᴛʏ ᴇɴᴛʜᴜꜱɪᴀꜱᴛ 👨‍💻👨‍💻👨‍💻</h3>
 
-<img align="right" style="border-radius: 5px;" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" width="400" alt="coding"></img>
+<img align="right" style="border-radius: 5%;" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" width="400" alt="coding"></img>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shaikhzayan&label=Profile%20views&color=0e75b6&style=flat" alt="shaikhzayan" /> </p>
 
