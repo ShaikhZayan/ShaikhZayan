@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" width="400" alt="coding">
-</p>
-
 <h1 align="center">Hi 👋, I'm Shaikh Zayan</h1>
 
 <h3 align="center">Master Programmer | Web 3.0 & Metaverse Developer | Jamstack Enthusiast | Artificial Intelligence | Blockchain Dev | Cybersecurity Geek 👨‍💻👨‍💻👨‍💻</h3>
@@ -45,3 +41,7 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shaikhzayan&show_icons=true&locale=en&layout=compact" alt="shaikhzayan"></p>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=shaikhzayan&show_icons=true&locale=en" alt="shaikhzayan"></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shaikhzayan&" alt="shaikhzayan"></p>
+
+<p align="center">
+  <img src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" width="400" alt="coding">
+</p>
