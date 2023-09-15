@@ -3,7 +3,6 @@
 <h3 align="center">ᴀ ᴍᴀꜱᴛᴇʀ ᴘʀᴏɢʀᴀᴍᴍᴇʀ | ᴡᴇʙ 3.0 & ᴍᴇᴛᴀᴠᴇʀꜱᴇ ᴅᴇᴠᴇʟᴏᴘᴇʀ | ᴊᴀᴍꜱᴛᴀᴄᴋ ᴅᴇᴠᴇʟᴏᴘᴇʀ | ᴀʀᴛɪꜰɪᴄɪᴀʟ ɪɴᴛᴇʟʟɪɢᴇɴᴄᴇ | ʙʟᴏᴄᴋᴄʜᴀɪɴ ᴅᴇᴠᴇʟᴏᴘᴍᴇɴᴛ | ᴄʏʙᴇʀꜱᴇᴄᴜʀɪᴛʏ ᴇɴᴛʜᴜꜱɪᴀꜱᴛ 👨‍💻👨‍💻👨‍💻</h3>
 <br>
 <br>
-<br>
 <img align="right" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" width="300" alt="coding"></img>
 
 <p align="left">
