@@ -31,6 +31,7 @@
 </p>
 
 <div style="display: flex; align-items: flex-start;">
+ <h3 align="left">Most Used Languages:</h3>
    <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="40" height="40" />
    <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="40" height="40" /> 
    <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="40" height="40" /> 
