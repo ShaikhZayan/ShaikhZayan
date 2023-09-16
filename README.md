@@ -52,8 +52,8 @@
 <br><br>
 &nbsp;
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shaikhzayan&show_icons=true&locale=en&layout=compact" alt="shaikhzayan"></p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=shaikhzayan&show_icons=true&locale=en" alt="shaikhzayan"></p>
-[![GitHub Streak](https://streak-stats.demolab.com?user=shaikhzayan&theme=highcontrast&border_radius=6.3)](https://git.io/streak-stats)
+<p><img align="center" src="https://github-readme-stats-henna-omega-51.vercel.app/api/top-langs/?username=shaikhzayan&layout=compact&hide=jupyter%20notebook&theme=great-gatsby" alt="shaikhzayan"></p>
+<p><img align="rightr" src="https://streak-stats.demolab.com?user=shaikhzayan&theme=highcontrast&border_radius=6.3" alt="shaikhzayan"></p>
 
 ![ShaikZayan github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=shaikhzayan&theme=github-compact&area=true&hide_border=true)
 ![GitHub Contribution Grid Snake](https://github.com/201580ag/201580ag/blob/output/github-contribution-grid-snake.svg)
