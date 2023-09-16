@@ -44,3 +44,6 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shaikhzayan&show_icons=true&locale=en&layout=compact" alt="shaikhzayan"></p>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=shaikhzayan&show_icons=true&locale=en" alt="shaikhzayan"></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shaikhzayan&" alt="shaikhzayan"></p>
+
+![ShaikZayan github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=shaikhzayan&theme=github-compact&area=true&hide_border=true)
+![GitHub Contribution Grid Snake](https://github.com/201580ag/201580ag/blob/output/github-contribution-grid-snake.svg)
