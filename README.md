@@ -1,5 +1,4 @@
 ![logo](https://github.com/ShaikhZayan/ShaikhZayan/blob/main/Github%20Profile%20Banner.jpg)
-[![trophy](https://github-profile-trophy.vercel.app/?username=shaikhzayan&row=1&column=9&theme=gruvbox)](https://github.com/shaikhzayan)
 <h1 align="center">Hi 👋, I'm Shaikh Zayan</h1>
 
 <h3 align="center">ᴀ ᴍᴀꜱᴛᴇʀ ᴘʀᴏɢʀᴀᴍᴍᴇʀ | ᴡᴇʙ 3.0 & ᴍᴇᴛᴀᴠᴇʀꜱᴇ ᴅᴇᴠᴇʟᴏᴘᴇʀ | ᴊᴀᴍꜱᴛᴀᴄᴋ ᴅᴇᴠᴇʟᴏᴘᴇʀ | ᴀʀᴛɪꜰɪᴄɪᴀʟ ɪɴᴛᴇʟʟɪɢᴇɴᴄᴇ | ʙʟᴏᴄᴋᴄʜᴀɪɴ ᴅᴇᴠᴇʟᴏᴘᴍᴇɴᴛ | ᴄʏʙᴇʀꜱᴇᴄᴜʀɪᴛʏ ᴇɴᴛʜᴜꜱɪᴀꜱᴛ 👨‍💻👨‍💻👨‍💻</h3>
