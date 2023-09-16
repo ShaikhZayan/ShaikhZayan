@@ -23,8 +23,6 @@
 
 - 📫 How to reach me **siddiquizayan50@gmail.com**
 
-- 📄 Know about my experiences [Explore my extensive experiences in web 3.0, metaverse development, blockchain solutions, and artificial intelligence. I've had the privilege of working with forward-thinking companies, contributing to cutting-edge projects, and staying at the forefront of technological advancements. Let's connect and discuss how my expertise can benefit your ventures](Explore my extensive experiences in web 3.0, metaverse development, blockchain solutions, and artificial intelligence. I've had the privilege of working with forward-thinking companies, contributing to cutting-edge projects, and staying at the forefront of technological advancements. Let's connect and discuss how my expertise can benefit your ventures)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://instagram.com/zayan.1326" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="zayan.1326" height="30" width="40"></a>
