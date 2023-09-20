@@ -49,7 +49,7 @@
 </p>
 <br><br>
 &nbsp;
-[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+
 <p><img  src="https://github-readme-stats-henna-omega-51.vercel.app/api?username=shaikhzayan&show_icons=true&theme=great-gatsby" alt="shaikhzayan"></p>
 <p><img  src="https://github-readme-stats-henna-omega-51.vercel.app/api/top-langs/?username=shaikhzayan&layout=compact&hide=jupyter%20notebook&theme=great-gatsby" alt="shaikhzayan"></p>
 <p><img  src="https://streak-stats.demolab.com?user=shaikhzayan&theme=highcontrast&border_radius=6.3" alt="shaikhzayan"></p>
