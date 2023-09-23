@@ -5,7 +5,7 @@
  
 <br>
 
-<img align="right" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" width="300" alt="coding"></img>
+<!-- <img align="right" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" width="300" alt="coding"></img> -->
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=shaikhzayan&label=Profile%20views&color=0e75b6&style=flat" alt="shaikhzayan">
@@ -63,3 +63,9 @@
 
 ![ShaikZayan github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=shaikhzayan&theme=github-compact&area=true&hide_border=true)
 ![GitHub Contribution Grid Snake](https://github.com/201580ag/201580ag/blob/output/github-contribution-grid-snake.svg)
+
+<hr/>
+
+<a href="https://visitcount.itsvg.in">
+  <img src="https://visitcount.itsvg.in/api?id=ShaikhZayan&label=Profile%20Views&color=0&icon=0&pretty=true" />
+</a>
