@@ -50,7 +50,7 @@
 <br><br>
 &nbsp;
 
-<p><img  src="https://github-readme-stats-henna-omega-51.vercel.app/api?username=shaikhzayan&show_icons=true&theme=great-gatsby" alt="shaikhzayan"></p>
+<!-- <p><img  src="https://github-readme-stats-henna-omega-51.vercel.app/api?username=shaikhzayan&show_icons=true&theme=great-gatsby" alt="shaikhzayan"></p> -->
 <p><img  src="https://github-readme-stats-henna-omega-51.vercel.app/api/top-langs/?username=shaikhzayan&layout=compact&hide=jupyter%20notebook&theme=great-gatsby" alt="shaikhzayan"></p>
 <p><img  src="https://streak-stats.demolab.com?user=shaikhzayan&theme=highcontrast&border_radius=6.3" alt="shaikhzayan"></p>
 
