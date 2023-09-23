@@ -5,15 +5,9 @@
  
 <br>
 
-<!-- <img align="right" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" width="300" alt="coding"></img> -->
+<<img align="right" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" width="300" alt="coding"></img> 
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=shaikhzayan&label=Profile%20views&color=0e75b6&style=flat" alt="shaikhzayan">
-</p>
 
-<a href="https://visitcount.itsvg.in">
-  <img src="https://visitcount.itsvg.in/api?id=ShaikhZayan&label=Profile%20Views&color=0&icon=0&pretty=true" />
-</a>
 
 - 🔭 I’m currently working on **Web3, Artificial Intelligence, Blockchain & Metaverse Development**
 
