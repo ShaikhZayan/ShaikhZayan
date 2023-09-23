@@ -11,6 +11,10 @@
   <img src="https://komarev.com/ghpvc/?username=shaikhzayan&label=Profile%20views&color=0e75b6&style=flat" alt="shaikhzayan">
 </p>
 
+<a href="https://visitcount.itsvg.in">
+  <img src="https://visitcount.itsvg.in/api?id=ShaikhZayan&label=Profile%20Views&color=0&icon=0&pretty=true" />
+</a>
+
 - 🔭 I’m currently working on **Web3, Artificial Intelligence, Blockchain & Metaverse Development**
 
 - 🌱 I’m currently learning **I firmly believe that continuous learning fuels every developer's journey. In our fast-paced tech world, staying updated isn't just essential; &nbsp; it's our commitment to shape the future with cutting-edge innovations. As a successful developer, my pursuit of knowledge never wanes. Learning is the driving force empowering us to succeed, adapt, and make an impact. That's why I'm dedicated to self-learning and staying current with the latest tech, fueling my passion for innovation**
