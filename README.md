@@ -22,8 +22,13 @@
 - 📫 How to reach me **siddiquizayan50@gmail.com**
 
 <h3 align="left">Currently Languages Im Working With</h3>
+
 <p align="left">
- <b>Next.js, Typescript, Node.js, Tailwind CSS, Shadcn UI, PostgreSQL, Drizzle ORM, Sanity.io, Firebase, Postman, LLM, & Python</b>
+ <b>
+  Next.js, Typescript, Node.js, Tailwind CSS, Shadcn UI,
+  PostgreSQL, Drizzle ORM, Sanity.io, Firebase, Postman,
+  LLM, & Python
+ </b>
 </p>
 
 <h3 align="left">Connect with me:</h3>
