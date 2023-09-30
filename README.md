@@ -23,7 +23,7 @@
 
 <h3 align="left">Currently Languages Im Working With</h3>
 <p align="left">
- **Next.js, Typescript, Node.js, Tailwind CSS, Shadcn UI, PostgreSQL, Drizzle ORM, Sanity.io, Firebase, Postman, LLM, & Python**
+ <b>Next.js, Typescript, Node.js, Tailwind CSS, Shadcn UI, PostgreSQL, Drizzle ORM, Sanity.io, Firebase, Postman, LLM, & Python</b>
 </p>
 
 <h3 align="left">Connect with me:</h3>
