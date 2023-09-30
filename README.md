@@ -21,6 +21,11 @@
 
 - 📫 How to reach me **siddiquizayan50@gmail.com**
 
+<h3 align="left">Currently Languages Im Working With</h3>
+<p align="left">
+ Next.js, Typescript, Node.js, Tailwind CSS, Shadcn UI, PostgreSQL, Drizzle ORM, Sanity.io, Firebase, Postman, LLM, & Python
+</p>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://instagram.com/zayan.1326" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="zayan.1326" height="30" width="40"></a>
