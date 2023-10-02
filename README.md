@@ -26,7 +26,7 @@
 <p align="left">
  <b>
   Next.js, Typescript, Node.js, Tailwind CSS, Shadcn UI,
-  PostgreSQL, Drizzle ORM, Sanity.io, Firebase, Postman,
+  PostgreSQL, Drizzle ORM, Sanity.io, Firebase, Postman, GENAI,
   LLM, & Python
  </b>
 </p>
