@@ -5,7 +5,7 @@
  
 <br>
 
-<img align="right" src="https://gifdb.com/images/high/coding-animated-laptop-flow-stream-ja04010rm5o68zfk.gif" width="300" alt="coding"></img> 
+<img align="right" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.deviantart.com%2Fhappy05%2Fart%2FEarth-ASCII-Animation-681694437&psig=AOvVaw1GKiweM2R1OhoVvfFCYw38&ust=1702096866043000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCKDD6YyD_4IDFQAAAAAdAAAAABAH" width="300" alt="coding"></img> 
 
 
 
