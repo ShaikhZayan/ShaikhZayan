@@ -5,7 +5,7 @@
  
 <br>
 
-<img align="right" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.deviantart.com%2Fhappy05%2Fart%2FEarth-ASCII-Animation-681694437&psig=AOvVaw1GKiweM2R1OhoVvfFCYw38&ust=1702096866043000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCKDD6YyD_4IDFQAAAAAdAAAAABAH" width="300" alt="coding"></img> 
+<img align="right" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/afbefb6e-a4d3-447e-bf7a-10d0fe1b8087/db9v2sl-526fde26-8c2d-4aa7-bb4f-67b22b13865c.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2FmYmVmYjZlLWE0ZDMtNDQ3ZS1iZjdhLTEwZDBmZTFiODA4N1wvZGI5djJzbC01MjZmZGUyNi04YzJkLTRhYTctYmI0Zi02N2IyMmIxMzg2NWMuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.6M9JCFMFkWZYk5vTNzse-eCBMd-RY8RB0BN8dVyNQFQ" width="300" alt="coding"></img> 
 
 
 
