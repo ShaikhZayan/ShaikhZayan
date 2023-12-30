@@ -1,4 +1,4 @@
-![logo](https://github.com/ShaikhZayan/ShaikhZayan/blob/main/My%20Profile%20Banner.png)
+![logo](https://github.com/ShaikhZayan/ShaikhZayan/blob/main/My%20Profile%20Banner%20(2).png)
 <h1 align="center">Hi 👋, I'm Shaikh Zayan</h1>
 
 <h3 align="center">ɢᴇɴᴇʀᴀᴛɪᴠᴇ ᴀɪ ᴇɴɢɪɴᴇᴇʀ | ᴅᴀᴛᴀꜱᴄɪᴇɴᴛɪꜱᴛ | ᴡᴇʙ 3.0 & ᴍᴇᴛᴀᴠᴇʀꜱᴇ ᴅᴇᴠᴇʟᴏᴘᴇʀ | ᴄʏʙᴇʀꜱᴇᴄᴜʀɪᴛʏ ᴇɴᴛʜᴜꜱɪᴀꜱᴛ👨‍💻👨‍💻👨‍💻</h3>
