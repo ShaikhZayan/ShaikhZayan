@@ -5,7 +5,7 @@
  
 <br>
 
-<img align="right" src="https://github.com/ShaikhZayan/ShaikhZayan/blob/main/giphy.gif" width="300" alt="coding"></img> 
+<img align="right" src="https://github.com/ShaikhZayan/ShaikhZayan/blob/main/giphy%20(1).gif" width="300" alt="coding"></img> 
 
 
 
