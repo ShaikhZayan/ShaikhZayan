@@ -13,7 +13,7 @@
 💬 Ask me about anything related to Artificial Intelligence, Generative AI, Machine Learning (DL, RL, CV), or anything tech!<br><br>
 📫 Reach me at siddiquizayanupwork@gmail.com<br><br>
 👨‍💻 Explore my projects: https://shaikh-zayan.vercel.app<br><br>
-📄 Connect with me on LinkedIn:https://linkedin.com/in/shaikhzayan-genai-engineer-developer/</p>
+📄 Connect with me on LinkedIn: https://linkedin.com/in/shaikhzayan-genai-engineer-developer/</p>
 
 <div align="left">
   <a href="https://linkedin.com/in/shaikhzayan-genai-engineer-developer/" target="_blank">
