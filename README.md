@@ -19,15 +19,6 @@
   <a href="https://linkedin.com/in/shaikhzayan-genai-engineer-developer/">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="40" alt="linkedin logo" />
   </a>
-  <a href="https://twitter.com/yourtwitterhandle">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="40" alt="twitter logo" />
-  </a>
-  <a href="https://discord.gg/yourdiscordserver">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="40" alt="discord logo" />
-  </a>
-  <a href="https://youtube.com/yourchannel">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="40" alt="youtube logo" />
-  </a>
 </div>
 
 <h4 align="left">Technologies I'm Currently Working With and always eager to learn more! 🤗</h4>
