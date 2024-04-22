@@ -12,8 +12,8 @@
 🤝 I’m passionate about applying AI-driven solutions to help businesses and companies innovate and thrive.<br><br>
 💬 Ask me about anything related to Artificial Intelligence, Generative AI, Machine Learning (DL, RL, CV), or anything tech!<br><br>
 📫 Reach me at siddiquizayan50@gmail.com<br><br>
-👨‍💻 Explore my projects: [shaikh-zayan.vercel.app](https://shaikh-zayan.vercel.app)<br><br>
-📄 Connect with me on LinkedIn: [linkedin.com/in/shaikhzayan-genai-engineer-developer/](https://linkedin.com/in/shaikhzayan-genai-engineer-developer/)</p>
+👨‍💻 Explore my projects: https://shaikh-zayan.vercel.app<br><br>
+📄 Connect with me on LinkedIn:https://linkedin.com/in/shaikhzayan-genai-engineer-developer/</p>
 
 <div align="left">
   <a href="https://linkedin.com/in/shaikhzayan-genai-engineer-developer/">
