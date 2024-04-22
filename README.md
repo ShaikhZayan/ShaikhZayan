@@ -2,9 +2,9 @@
   <img height="200" src="https://github.com/ShaikhZayan/ShaikhZayan/blob/main/image2.jpg"  />
 </div>
 
-<h1 align="center">Hi 👋, I'm Shaikh Zayan</h1>
+<h1 align="left">Hi 👋, I'm Shaikh Zayan</h1>
 
-<h4 align="center">Full-Stack Engineer | Generative AI Engineer | AI/ML Engineer | DevOps Engineer | Cloud Engineer | Data Scientist | Machine Learning Engineer | Software Engineer | Technical Lead | Solution Architect</h4>
+<h4 align="left">Full-Stack Engineer | Generative AI Engineer | AI/ML Engineer | DevOps Engineer | Cloud Engineer | Data Scientist | Machine Learning Engineer | Software Engineer | Technical Lead | Solution Architect</h4>
 
 <h2 align="left">About Me</h2>
 
