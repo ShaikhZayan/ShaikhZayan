@@ -1,4 +1,4 @@
-<div align="center">
+<div align="left">
   <img height="200" src="https://github.com/ShaikhZayan/ShaikhZayan/blob/main/image2.jpg"  />
 </div>
 
