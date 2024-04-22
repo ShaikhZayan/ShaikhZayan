@@ -30,7 +30,7 @@
   </a>
 </div>
 
-<h4 align="left">Technologies I'm Currently Working With (and always eager to learn more! 🤗</h4>
+<h4 align="left">Technologies I'm Currently Working With and always eager to learn more! 🤗</h4>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
