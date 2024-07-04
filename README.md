@@ -181,5 +181,3 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=blender" height="40" alt="blender logo"  />
 </div>
-
-<img src="https://raw.githubusercontent.com/shaikhzayan/shaikhzayan/output/snake.svg" alt="Snake animation" />
