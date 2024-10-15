@@ -1,5 +1,6 @@
 <div align="left">
-  <img height="200" src="https://github.com/ShaikhZayan/ShaikhZayan/blob/main/new%20banner.png"  />
+<!--   <img height="200" src="https://github.com/ShaikhZayan/ShaikhZayan/blob/main/new%20banner.png"  /> -->
+  <img height="200" src="https://github.com/ShaikhZayan/ShaikhZayan/blob/main/twitter_banner.jpg"  />
 </div>
 
 <h1 align="left">Hi 👋, I'm Shaikh Zayan</h1>
