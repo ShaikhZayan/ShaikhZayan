@@ -12,7 +12,7 @@
 <p align="left">✨ 🔭 I’m a Tech Enthusiast, constantly exploring the latest in Artificial Intelligence, Machine Learning, Deep Learning, and more. Every day is a new opportunity to learn and grow in the world of technology.<br><br>
 🤝 I’m passionate about applying AI-driven solutions to help businesses and companies innovate and thrive.<br><br>
 💬 Ask me about anything related to Artificial Intelligence, Generative AI, Machine Learning (DL, RL, CV), or anything tech!<br><br>
-📫 Reach me at siddiquizayanupwork@gmail.com<br><br>
+📫 Reach me at info@shaikhzayan.ai<br><br>
 👨‍💻 Explore my projects: https://shaikhzayan.ai<br><br>
 📄 Connect with me on LinkedIn: https://linkedin.com/in/shaikhzayan-genai-engineer-developer/</p>
 
