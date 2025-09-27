@@ -6,7 +6,7 @@
 <h1 align="center">Hi 👋, I'm Shaikh Zayan</h1>
 
 <h3 align="center">
-  Founder & Visionary At [@AgentryHub](https://agentryhub.com/) 🚀 | Full-Stack Engineer | Generative AI Engineer | Agentic AI Engineer | AI/ML Engineer |  
+  Founder & Visionary At @Agentryhub 🚀 | Full-Stack Engineer | Generative AI Engineer | Agentic AI Engineer | AI/ML Engineer |  
   DevOps Engineer | Cloud Engineer | Data Scientist | Machine Learning Engineer |  
   Software Engineer | Technical Lead | Solution Architect
 </h3>
