@@ -27,14 +27,5 @@
 
 ---
 
-## 📊 GitHub Stats  
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ShaikhZayan&show_icons=true&theme=radical" alt="GitHub Stats" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShaikhZayan&layout=compact&theme=radical" alt="Top Languages" height="170"/>
-</div>
-
----
-
 ## ✨ Motto  
 > *“Every day is a new opportunity to learn, build, and push the boundaries of technology.”* 🚀  
