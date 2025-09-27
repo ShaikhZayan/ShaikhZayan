@@ -27,56 +27,6 @@
 
 ---
 
-## 🛠️ Tech Stack  
-
-I’m currently working with (and always eager to learn more 🚀):  
-
-<div align="left">
-  
-![JavaScript](https://skillicons.dev/icons?i=javascript) 
-![TypeScript](https://skillicons.dev/icons?i=ts) 
-![React](https://skillicons.dev/icons?i=react) 
-![Next.js](https://skillicons.dev/icons?i=nextjs) 
-![Node.js](https://skillicons.dev/icons?i=nodejs) 
-![Python](https://skillicons.dev/icons?i=py) 
-![TensorFlow](https://skillicons.dev/icons?i=tensorflow) 
-![PyTorch](https://skillicons.dev/icons?i=pytorch) 
-![Docker](https://skillicons.dev/icons?i=docker) 
-![Kubernetes](https://skillicons.dev/icons?i=kubernetes)  
-![AWS](https://skillicons.dev/icons?i=aws) 
-![Azure](https://skillicons.dev/icons?i=azure) 
-![GCP](https://skillicons.dev/icons?i=gcp) 
-![Postgres](https://skillicons.dev/icons?i=postgres) 
-![MongoDB](https://skillicons.dev/icons?i=mongodb) 
-![Prisma](https://skillicons.dev/icons?i=prisma) 
-![GraphQL](https://skillicons.dev/icons?i=graphql)  
-![Linux](https://skillicons.dev/icons?i=linux) 
-![Bash](https://skillicons.dev/icons?i=bash) 
-![Git](https://skillicons.dev/icons?i=git) 
-![GitLab](https://skillicons.dev/icons?i=gitlab) 
-![Vercel](https://skillicons.dev/icons?i=vercel) 
-![Firebase](https://skillicons.dev/icons?i=firebase)  
-![Tailwind](https://skillicons.dev/icons?i=tailwind) 
-![MaterialUI](https://skillicons.dev/icons?i=materialui) 
-![Bootstrap](https://skillicons.dev/icons?i=bootstrap) 
-![Redis](https://skillicons.dev/icons?i=redis) 
-![Supabase](https://skillicons.dev/icons?i=supabase)  
-![Solidity](https://skillicons.dev/icons?i=solidity) 
-![Rust](https://skillicons.dev/icons?i=rust) 
-![R](https://skillicons.dev/icons?i=r) 
-![Ruby](https://skillicons.dev/icons?i=ruby) 
-![Svelte](https://skillicons.dev/icons?i=svelte) 
-![Flutter](https://skillicons.dev/icons?i=flutter)  
-![Opencv](https://cdn.simpleicons.org/opencv/5C3EE8) 
-![ThreeJS](https://skillicons.dev/icons?i=threejs) 
-![Blender](https://skillicons.dev/icons?i=blender) 
-![Photoshop](https://skillicons.dev/icons?i=ps) 
-![Illustrator](https://skillicons.dev/icons?i=ai)  
-
-</div>
-
----
-
 ## 📊 GitHub Stats  
 
 <div align="center">
